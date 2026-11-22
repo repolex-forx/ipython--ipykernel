@@ -608,7 +608,9 @@
           "githubUrl": "https://github.com/matplotlib/matplotlib",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/4b37e7504b1e7563b434b23961d2d6b75dc95ed1/chunk-001.nq.gz",
+      "dep": "dep/4b37e7504b1e7563b434b23961d2d6b75dc95ed1.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
