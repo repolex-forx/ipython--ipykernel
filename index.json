@@ -3,6 +3,11 @@
   "repo": "ipykernel",
   "versions": [
     {
+      "commit": "4b37e7504b1e7563b434b23961d2d6b75dc95ed1",
+      "tag": "v7.2.0",
+      "parsed_at": "2026-11-22T11:25:10.687933+00:00"
+    },
+    {
       "commit": "a2b7a3ebbbb77faa710663b49a427704bc00a257",
       "tag": "",
       "parsed_at": "2026-10-12T03:15:25.691765+00:00"
